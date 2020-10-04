@@ -15,7 +15,7 @@
 - https://dhlife09.codes
 - https://github.com/dhlife09
 - https://t.me/dhlife09
-- mailto:dhlife09@gmail.com
+- dhlife09@gmail.com
 
 ---
 
