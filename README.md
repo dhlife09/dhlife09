@@ -1,24 +1,21 @@
+
 ### Hi there 👋
 
 안녕하세요!
-
-저는 정보보안전문가의 꿈을 가지고 정보보안 분야를 주로 공부하고 있으며 프로그래밍, 영상미디어, IT 등 여러 분야에 관심을 가지고 활동하고 있는 고등학생 박도현 입니다.
-
-
+프로그래밍, 영상미디어, IT 등 여러 분야에 관심을 가진 정보보호전문가가 되고 싶은 고등학생 박도현 입니다.
 
 주로 웹과 모바일 분야에 관심이 많습니다 😆
 
 현재 굿바이코로나 프로젝트로 [굿바이코로나](https://corona-19.kr)와 [Corona-19-API](https://api.corona-19.kr) 서비스를 운영하고 있습니다.
 
-모바일 분야는 아직 공부가 더 필요하고 추후 [광주광역시 BIS 사이트](https://corona-19.kr/app/gwtb)를 어플리케이션으로 제작해보고 싶은 의향이 있습니다 😀
+웹과 모바일 분야 뿐만 아니라 더 많은 경험을 해보고 싶고 더 많은 공부가 필요합니다.
+ 추후 [광주광역시 BIS 사이트](https://bus.gwangju.kr/)를 어플리케이션으로 제작해보고 싶습니다 😀
 
 ---
-
-[★ GitHub](https://github.com/dhlife09) 
-
-[★ Telegram](https://t.me/dhlife09)
-
-[★ Email](mailto:dhlife09@gmail.com)
+- https://dhlife09.codes
+- https://github.com/dhlife09
+- https://t.me/dhlife09
+- mailto:dhlife09@gmail.com
 
 ---
 
