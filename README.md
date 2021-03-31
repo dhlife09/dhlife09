@@ -5,13 +5,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dhlife09)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Dohyun Park
-- [Bia High School](http://bia.gen.hs.kr) (2020.03 ~ 2023.02)
+- [Bia High School](http://bia.gen.hs.kr/) (2020.03 ~ 2023.02)
 
-- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2019.03 ~ 2021.12)
+- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2019.03 ~ 2021.12)    
 2019학년도 중등심화, 2020학년도 고등전문(Reversing) 과정을 수료하였으며 2021학년도 고등전문(Web hacking)을 공부하고 있습니다.
 
-- [Goodbye-Corona](https://corona-19.kr) (2020.02 ~ 20xx.xx)
-	통계분석, API 서비스 운영 중
+- [Goodbye-Corona](https://corona-19.kr/) (2020.02 ~ 20xx.xx)    
+통계분석, API 서비스를 운영하고 있습니다.
 ---
 
 **프로그래밍, 미디어, IT 등 여러 분야에 관심을 가진 정보보호전문가가 되고 싶은 고등학생 박도현 입니다.**
