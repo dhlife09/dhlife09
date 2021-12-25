@@ -7,8 +7,8 @@
 ### Dohyun Park
 - High School Student (2020.03 ~ 2023.02)
 
-- [Mokpo National University Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2019.03 ~ 2021.12)    
-2019학년도 중등심화, 2020학년도 고등전문(Reversing) 과정을 수료하였으며 2021학년도 고등전문(Web hacking)을 공부하고 있습니다.
+- [MNU Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2019.03 ~ 2021.12)    
+2019학년도 중등심화, 2020학년도 고등전문(Reversing) 과정, 2021학년도 고등전문(Web hacking)을 수료하였습니다.
 
 - [Goodbye-Corona](https://corona-19.kr/) (2020.02 ~ )    
 통계분석, API 서비스를 운영하고 있습니다.
