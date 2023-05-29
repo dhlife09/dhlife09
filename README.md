@@ -2,8 +2,6 @@
 
 프로그래밍, IT, 데이터사이언스, 정보보안 등 여러 분야에 관심을 가지고 공부하고 있는 대학생 입니다.
 
----
-
 ## Activity
 
 - [MNU Institute of Information Security Education for the Gifted](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) (2019.03 ~ 2021.12)
