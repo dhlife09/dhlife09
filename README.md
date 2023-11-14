@@ -28,8 +28,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhlife09&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhlife09@gmail.com)](mailto:dhlife09@gmail.com) [<img src="https://dcbadge.vercel.app/api/shield/281413478122520577?style=flat-square"/>](https://discord.com/users/281413478122520577)  <a href="https://velog.io/@dhlife09"><img src="https://img.shields.io/badge/d0hyun.park-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dhlife09"/></a>
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dhlife09)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **dhlife09/dhlife09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
