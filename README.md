@@ -22,7 +22,9 @@
 광운대학교에 신규 공지사항이 개제되면 알려주는 봇(채널)입니다.     
 교내 홍보대사인 "광운알리미"와는 관련이 없습니다.
 
-- [2023 Naver Bug Bounty Hall of Fame](https://bugbounty.naver.com/ko/halloffame) (2023)
+- [2023 Naver Bug Bounty Hall of Fame](https://bugbounty.naver.com/hall-of-fame) (2023)
+
+- [2024 Naver Bug Bounty Hall of Fame](https://bugbounty.naver.com/hall-of-fame) (2024)
 ---
 
 
